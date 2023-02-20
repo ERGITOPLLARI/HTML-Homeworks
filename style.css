@@ -1,0 +1,26 @@
+#p {
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+}
+#image {
+  border-style: solid;
+  border: 15px;
+  padding-left: 570px;
+}
+.main-div {
+  font-style: italic;
+  font-size: 30px;
+}
+.div1 {
+  background-color: #5c240a;
+}
+.div2 {
+  background-color: #f5bb7a;
+}
+.div3 {
+  background-color: #d66231;
+}
+.span {
+  color: #f5bb7a;
+}
